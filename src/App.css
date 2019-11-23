@@ -1,0 +1,72 @@
+html, body {
+  min-height: 100%;
+}
+
+#container-background{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(./Images/coworking-space-3.jpg);
+  position: absolute;
+  height: 100vh;
+  max-width: 1500px;
+}
+
+#container-landing-page{
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+
+#container-how-it-works{
+  margin-top: 5%;
+  background-color: whitesmoke;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#container-clients{
+  margin-top: 5%;
+}
+
+#container-planning{
+  margin-top: 10%;
+}
+
+h2{
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#text-2{
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+p span{
+  
+  display: block;
+}
+
+#text-2 span{
+  font-weight: 100;
+  display: block;
+}
+
+#card-planning{
+  padding-top: 20px;
+}
+
+#container-planning .card-border-light{
+  background-color: whitesmoke;
+}
+
+#title{
+  font-weight: bolder;
+}
+#text{
+  display: block;
+}
+
+#text-works{
+  font-size: smaller;
+}
